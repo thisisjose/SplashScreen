@@ -6,7 +6,5 @@
 	<item>
 		<color android:color="@color/colorfondosplash"/>
 	</item>
-	<item android:drawable="">
-	
-	</item>
+	<item android:drawable="@drawable/Master_Ball" android:gravity="center"></item>
 </LinearLayout>
