@@ -95,9 +95,6 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\values\Style2.xml" />
-  </ItemGroup>
-  <ItemGroup>
     <AndroidResource Include="Resources\drawable\layout1.xml">
       <SubType>Designer</SubType>
     </AndroidResource>
